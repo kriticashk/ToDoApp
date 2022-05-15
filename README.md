@@ -22,6 +22,10 @@ The user will be able to edit/update the tasks
 
 <img src="screenshots/editTask.gif"/>
 
+##View Tasks
+
+<img src="screenshots/Viewtask.gif"/>
+
 ##delete Tasks
 
 The user will be able to delete the to do tasks
